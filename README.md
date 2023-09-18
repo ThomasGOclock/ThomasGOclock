@@ -1,4 +1,5 @@
-# Hi i'm Thomas 👋
+# Hi i'm Thomas Gil👋
+
 
 <!--
 **ThomasGOclock/ThomasGOclock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
